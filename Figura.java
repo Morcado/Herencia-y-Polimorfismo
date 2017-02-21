@@ -1,3 +1,5 @@
+/*pasos
+   1. Comprobacion estatica*/
 public class Figura{
 	protected float area;
 
@@ -8,4 +10,8 @@ public class Figura{
 	public float accedeArea(){
 		return area;
 	}
+	
+	public void calculaArea(){
+	    System.out.println("ups");
+    }
 }
