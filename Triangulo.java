@@ -1,3 +1,4 @@
+/*clase del triangulo que hereda de figura*/
 public class Triangulo extends Figura{
     private float base;
     private float altura;
