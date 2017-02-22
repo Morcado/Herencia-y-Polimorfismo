@@ -26,12 +26,17 @@ public class Principal{
         }
         */
        
+       
         for(Figura fig: figuras){
             fig.calculaArea();
         }
-        
+        /*
         for(Figura fig: figuras){
             fig.accedeArea();
+        }
+        */
+        for(Figura f: figuras){
+            System.out.println(f.dimeInfo());
         }
     }
 }

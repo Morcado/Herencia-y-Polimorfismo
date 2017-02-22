@@ -14,4 +14,9 @@ public class Figura{
 	public void calculaArea(){
 	    System.out.println("ups");
     }
+    
+    /*regresa una cadena :v :v :v :v :v :v .v :v :v :v :v :v :v :v :v .v :V */
+    public String dimeInfo(){
+        return ""+area;
+    }
 }

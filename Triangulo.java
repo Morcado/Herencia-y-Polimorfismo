@@ -11,4 +11,8 @@ public class Triangulo extends Figura{
     public void calculaArea(){
         area=base*altura/2;
     }
+    
+    public String dimeInfo(){
+        return "Triangulo "+super.dimeInfo();
+    }
 }
