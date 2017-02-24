@@ -19,4 +19,10 @@ public class Figura{
     public String dimeInfo(){
         return ""+area;
     }
+    
+    @Override
+    public boolean equals(Object obj){
+        return this.area==((Figura)obj).area; //compara si dos figuras tienen el mismo area
+        
+    }
 }
