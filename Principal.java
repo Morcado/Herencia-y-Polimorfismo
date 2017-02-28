@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 public class Principal{
     public static void main(String [] args){
+        /*
         Figura []figuras=new Figura[3];
         ArrayList<Figura> figs=new ArrayList<Figura>();
         
@@ -17,7 +18,7 @@ public class Principal{
         figs.add(c1);
         figs.add(cu1);
 
-        /*
+        
         for(int i=0; i<figuras.length; i++){
             figuras[i].calculaArea();
         }
@@ -34,7 +35,7 @@ public class Principal{
         for(Figura fig: figuras){
             fig.accedeArea();
         }
-        */
+        
         for(Figura f: figuras){
             System.out.println(f.dimeInfo());
         }
@@ -43,5 +44,6 @@ public class Principal{
             System.out.println("Son iguales");
         else
             System.out.println("Son diferentes");
+        */
     }
 }
