@@ -1,6 +1,10 @@
 import java.util.ArrayList;
 public class Principal{
     public static void main(String [] args){
+        
+       Ventana ventana=new Ventana(600, 800);
+       ventana.setVisible(true);
+        
         /*
         Figura []figuras=new Figura[3];
         ArrayList<Figura> figs=new ArrayList<Figura>();

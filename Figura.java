@@ -1,14 +1,14 @@
-/*pasos
-   1. Comprobacion estatica*/
+import java.awt.Graphics;
+
 public abstract class Figura{
     //protected float area;
     private int posx;
     private int posy;
     
-    public Figura(int x, int y){
-        posx=x;
-        posy=y;
-    }
+   public Figura(int x, int y){
+       posx=x;
+       posy=y;
+   }
     protected int dameX(){
        return posx;
    }
@@ -16,6 +16,7 @@ public abstract class Figura{
    protected int dameY(){
        return posy;
    }
+   
    public abstract void dibuja(Graphics g);
    
     /*

@@ -5,17 +5,21 @@ import java.util.ArrayList;
 
 public class Lienzo extends JPanel{
  private ArrayList<Figura> figuras;
-    
+ private Graphics g;
+ 
  public Lienzo(){
      figuras=new ArrayList<Figura>();
      //inicializar el arraylist
-     Circulo c1=new Circulo
+     //Circulo c1=new Circulo
     }
  
  @Override
  public void paintComponent(Graphics g){
         Graphics2D g2=(Graphics2D)g;
-        //dibujar figuras
-        g2.drawString("Hola andrey", 23, 23);
+        /*
+        for(Figuras f:figuras){
+            f.dibuja(g);
+        }
+        */
     }
 }
