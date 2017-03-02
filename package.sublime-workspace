@@ -1,0 +1,575 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"println"
+			],
+			[
+				"scan",
+				"scan"
+			],
+			[
+				"pr",
+				"printArray"
+			],
+			[
+				"m",
+				"main\tmethod (main)"
+			],
+			[
+				"Su",
+				"sucursales"
+			],
+			[
+				"retiro",
+				"retiro"
+			],
+			[
+				"i",
+				"iClave"
+			],
+			[
+				"ARC",
+				"arch"
+			],
+			[
+				"de",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"fac",
+				"factorial"
+			],
+			[
+				"se",
+				"segundos"
+			],
+			[
+				"h",
+				"horas"
+			],
+			[
+				"GET",
+				"getch"
+			],
+			[
+				"I",
+				"icont"
+			],
+			[
+				"iA",
+				"iAux"
+			],
+			[
+				"iAu",
+				"iAux"
+			],
+			[
+				"ia",
+				"iAux"
+			],
+			[
+				"c",
+				"cAux"
+			],
+			[
+				"ge",
+				"getch"
+			],
+			[
+				"el",
+				"EL"
+			],
+			[
+				"V",
+				"void"
+			],
+			[
+				"RE",
+				"res"
+			],
+			[
+				"iTope",
+				"iTope"
+			],
+			[
+				"n",
+				"no"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"punt",
+				"puntos1"
+			],
+			[
+				"punto",
+				"puntos2"
+			],
+			[
+				"punts",
+				"puntos2"
+			],
+			[
+				"PUN",
+				"puntos"
+			],
+			[
+				"t",
+				"Tam"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"o",
+				"ol\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/C++.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "j",
+		"selected_items":
+		[
+			[
+				"j",
+				"Set Syntax: Java"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"Snippet: ",
+				"Snippet: method (main)"
+			],
+			[
+				"",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"add",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"jav",
+				"Build With: JavaC"
+			],
+			[
+				"java\t",
+				"Set Syntax: Java"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"s c",
+				"Install Package Control"
+			],
+			[
+				"sc",
+				"Set Syntax: C"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"sy c",
+				"Set Syntax: C"
+			],
+			[
+				"buill",
+				"Build: Cancel"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"se c",
+				"Set Syntax: C"
+			],
+			[
+				"pl",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"uuid.uuid4()",
+			"import uuid"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Oscar Patiño/Desktop/figuras/Ventana.java",
+		"/C/Users/Oscar Patiño/Desktop/figuras/Lienzo.java",
+		"/C/Users/Oscar Patiño/Desktop/figuras/Figura.java",
+		"/C/Users/Oscar Patiño/Desktop/figuras/Cuadrado.java",
+		"/C/Users/Oscar Patiño/Desktop/figuras/Circulo.java",
+		"/C/Users/Oscar Patiño/Desktop/figuras/Triangulo.java",
+		"/C/Users/Oscar Patiño/Desktop/figuras/Principal.java",
+		"/C/Users/Oscar Patiño/Desktop/djsjdjs.c",
+		"/C/Users/Oscar Patiño/Desktop/Problema.java",
+		"/C/Users/Oscar Patiño/Desktop/problema.java",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/javacompile.sublime-build",
+		"/C/Users/Oscar Patiño/Desktop/Solucion.java",
+		"/C/Program Files/Sublime Text 3/Packages/Java.sublime-package",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Oscar Patiño/Desktop/Práctica 3/CircuitoLogico.hdl",
+		"/C/Users/Oscar Patiño/Desktop/Práctica 3/CircuitoLogico.tst",
+		"/C/Users/Oscar Patiño/Desktop/Práctica 3/Multiplexor4x1.hdl",
+		"/C/Users/Oscar Patiño/Desktop/Práctica 3/Multiplexor4x1.tst",
+		"/C/Users/Oscar Patiño/Desktop/Práctica 3/Multiplexor2x1.hdl",
+		"/C/Users/Oscar Patiño/Desktop/Práctica 3/Multiplexor2x1.tst",
+		"/C/Users/Oscar Patiño/Desktop/Práctica 3/Xor.hdl",
+		"/C/Users/Oscar Patiño/Desktop/asdfg/CircuitoAritmetico4.hdl",
+		"/C/Users/Oscar Patiño/Desktop/asdfg/CircuitoAritmetico.tst",
+		"/C/Users/Oscar Patiño/Desktop/asdfg/CircuitoAritmetico.hdl",
+		"/C/Users/Oscar Patiño/Desktop/Sumador.hdl",
+		"/C/Users/Oscar Patiño/Desktop/Sumador.tst",
+		"/C/Users/Oscar Patiño/Desktop/Xor.hdl",
+		"/C/Users/Oscar Patiño/Desktop/asdfg/MedioSumador.tst",
+		"/C/Users/Oscar Patiño/Desktop/MedioSumador.hdl",
+		"/C/Users/Oscar Patiño/Desktop/CircuitoAritmetico",
+		"/C/Users/Oscar Patiño/Desktop/hwsim/demo/Xor.hdl",
+		"/C/Users/Oscar Patiño/Desktop/hwsim/demo/MedioSumador.hdl",
+		"/C/Users/Oscar Patiño/Desktop/ArrayMethods.java",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/Java.sublime-build",
+		"/C/Users/Oscar Patiño/Desktop/char.c",
+		"/C/Users/Oscar Patiño/Google Drive/Programación orientada a objetos/targeta.java",
+		"/C/Users/Oscar Patiño/Documents/Star Figuri Wars.c",
+		"/C/Users/Oscar Patiño/Desktop/gate/gate.c",
+		"/C/Users/Oscar Patiño/Desktop/Proyecto-Final-EDA-B/Proyecto Final EDA B/Malla2/Malla.c",
+		"/C/Program Files/Sublime Text 3/Packages/Color Scheme - Default.sublime-package",
+		"/C/Program Files/Sublime Text 3/Packages/changelog.txt",
+		"/C/Users/Oscar Patiño/Desktop/gate/obj/Debug/gate.o",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+		"/C/MinGW/include/winbgim.h",
+		"/C/MinGW/include/graphics.h",
+		"/C/Users/Oscar Patiño/Desktop/Estructuras B/Editor/Editor.cpp",
+		"/C/Users/Oscar Patiño/Desktop/Estructuras B/Lista con recursiones.c",
+		"/C/Users/Oscar Patiño/Desktop/Estructuras B/Editor/Editor.c",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/C.sublime-build",
+		"/C/Users/Oscar Patiño/Documents/Estructuras A/Archivos/Guardar archivo binario.c",
+		"/C/Users/Oscar Patiño/Desktop/preuba.c",
+		"/C/Users/Oscar Patiño/Desktop/tiempo.c",
+		"/C/Users/Oscar Patiño/Desktop/cubitos/cubos.c",
+		"/C/Users/Oscar Patiño/Desktop/cubitos/cubos.cpp",
+		"/C/Users/Oscar Patiño/Desktop/Recursion/fibonacci recursion.c",
+		"/C/Users/Oscar Patiño/Desktop/Recursion/suma cadena de numeros.c",
+		"/C/Users/Oscar Patiño/Desktop/Recursion/serie fibonacchi.c",
+		"/C/Users/Oscar Patiño/Desktop/Recursion/factorial recursion.c",
+		"/C/Users/Oscar Patiño/Desktop/recursion.c",
+		"/C/Users/Oscar Patiño/Downloads/3pilas.c",
+		"/C/Users/Oscar Patiño/Desktop/Tarea/2.c",
+		"/C/Users/Oscar Patiño/Desktop/Tarea/1.c",
+		"/C/Users/Oscar Patiño/Desktop/voltea palabra recursion.c",
+		"/C/Users/Oscar Patiño/Desktop/factorial recursion.c",
+		"/C/Users/Oscar Patiño/Desktop/fibonacci recursion.c",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Oscar Patiño/Desktop/Pilas y Colas.c",
+		"/C/Users/Oscar Patiño/Downloads/3pilas.txt",
+		"/E/Codeblocks/Ejer3p&c/Problema3.c",
+		"/E/Codeblocks/Ejer3p&c/Ejer3p&c.cbp",
+		"/E/Codeblocks/Ejer1p&c/Problema1.c",
+		"/E/Codeblocks/aaaaaaa",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/MinGW/include/graphics.hcode",
+		"/C/Program Files (x86)/CodeBlocks-EP/sdk/winbgim/include/graphics.h",
+		"/C/Users/Oscar Patiño/Desktop/12121.cpp",
+		"/C/Users/Oscar Patiño/Desktop/1.c",
+		"/C/Users/Oscar Patiño/Desktop/ppp.c",
+		"/C/Users/Oscar Patiño/Desktop/emma4.cpp",
+		"/C/Users/Oscar Patiño/Desktop/emma 3.cpp",
+		"/C/Users/Oscar Patiño/Desktop/emma2.cpp",
+		"/C/Users/Oscar Patiño/Desktop/emma.cpp",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/C build.sublime-build",
+		"/C/Users/Oscar Patiño/Desktop/hola.c",
+		"/C/Users/Oscar Patiño/Documents/Estructuras A/Dibujo/jjj.c",
+		"/C/Users/Oscar Patiño/Desktop/7.c",
+		"/C/Users/Oscar Patiño/Documents/Estructuras A/cuantas letras.c",
+		"/C/Users/Oscar Patiño/Documents/Estructuras A/Letra/Letra.c",
+		"/C/Users/Oscar Patiño/Documents/Estructuras A/Letras/Letras.c",
+		"/C/Program Files (x86)/CodeBlocks/MinGW/include/graphics.h",
+		"/C/Users/Oscar Patiño/Desktop/Pagina/GonzalezPatiñoOscarArmando.html",
+		"/C/Users/Oscar Patiño/Desktop/Pagina/sasa.html",
+		"/C/Users/Oscar Patiño/Desktop/Pagina/ola.html",
+		"/C/Users/Oscar Patiño/Desktop/ola.html",
+		"/C/Users/Oscar Patiño/Desktop/asas.cpp",
+		"/C/Users/Oscar Patiño/Documents/Ejercicios de C/Bubble sort.cpp",
+		"/C/Users/Oscar Patiño/AppData/Roaming/Sublime Text 3/Packages/User/c++output.tmLanguage"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i",
+			"sc",
+			"cadena",
+			"Sc",
+			"sc",
+			"tam",
+			"0",
+			"And",
+			"();",
+			"();\n",
+			"();",
+			"         ",
+			"        ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"malla",
+			"receta",
+			"nomIngre",
+			"WHITE",
+			"m_ptr2",
+			"aux",
+			"der",
+			"izq",
+			"pos",
+			"fin",
+			"ini",
+			"pos",
+			"fin",
+			"ini",
+			"top",
+			";\n",
+			"inum",
+			"cuenta",
+			"\\\\",
+			"\\",
+			"iAux",
+			"libras",
+			"kilos",
+			"iVoc",
+			"cadena",
+			"fDesctot",
+			"section",
+			"center",
+			"h6",
+			"men",
+			"may",
+			"n3",
+			"n2",
+			"n1",
+			"n2",
+			"print",
+			"n1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/javacompile.sublime-build",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Oscar Patiño\\Desktop\\1.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

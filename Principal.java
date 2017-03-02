@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 public class Principal{
     public static void main(String [] args){
-        
-       Ventana ventana=new Ventana(600, 800);
+    
+       Ventana ventana=new Ventana(400, 300);
        ventana.setVisible(true);
         
         /*

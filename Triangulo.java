@@ -13,7 +13,7 @@ public class Triangulo extends Figura{
     
     @Override
     public void dibuja(Graphics g){
-        
+        g.drawLine(200, 200, 300, 200);
     }
     /*
     public void calculaArea(){

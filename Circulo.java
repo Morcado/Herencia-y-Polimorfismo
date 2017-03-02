@@ -2,16 +2,16 @@
 import java.awt.Graphics;
 
 public class Circulo extends Figura{
-    private float radio;
+    private int radio;
     
-    public Circulo(float r, int x, int y){
+    public Circulo(int r, int x, int y){
         super(x, y);
         radio=r;
     }
     
     @Override
     public void dibuja(Graphics g){
-        
+        g.drawOval(10, 10, radio, radio);
     }
     /*
     public void calculaArea(){
