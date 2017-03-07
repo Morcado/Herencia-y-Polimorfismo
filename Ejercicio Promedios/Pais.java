@@ -1,11 +1,11 @@
-public class Pais{
+public class Pais implements Medible{
     private int habitantes;
     
     public Pais(int h){
         habitantes=h;
     }
     
-    public int dameHabitantes(){
-        return habitantes;
+    public int obtenerMedida(){
+        return habitantes; 
     }
 }

@@ -1,11 +1,11 @@
-public class CuentaBancaria{
+public class CuentaBancaria implements Medible{
    private int saldo;
    
    public CuentaBancaria(int s){
        saldo=s;
     }
    
-   public int dameSaldo(){
+   public int obtenerMedida(){
        return saldo;
    }
 }

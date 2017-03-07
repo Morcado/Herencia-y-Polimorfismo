@@ -9,7 +9,7 @@ public class Principal{
         banco.agregaCuenta(c2);
         banco.agregaCuenta(c3);
         
-        float promedio=banco.calculaSaldoPromedio();
+        float promedioCuentas=Utileria.calculaPromedio(banco);
         
         Planeta planeta=new Planeta();
         Pais p1=new Pais(25);
@@ -20,9 +20,9 @@ public class Principal{
         planeta.agregaPais(p2);  
         planeta.agregaPais(p3);
         
-        float proHab=planeta.promedioHabitantes();
+        float promedioHabitantes=Utileria.calculaPromedio(planeta);
         
-        System.out.println(proHab);
-        System.out.println(promedio);
+        System.out.println(promedioCuentas);
+        System.out.println(promedioHabitantes);
     }
 }
