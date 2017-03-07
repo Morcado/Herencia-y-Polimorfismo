@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 
 public class Banco{
-    private ArrayList<Medible> cuentas;
+    private ArrayList<CuentaBancaria> cuentas;
     
     public Banco(){
-        cuentas=new ArrayList<Medible>();
+        cuentas=new ArrayList<CuentaBancaria>();
     }
     
     public void agregaCuenta(CuentaBancaria nueva){

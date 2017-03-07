@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 
 public class Planeta{
-   private ArrayList<Medible> paises;
+   private ArrayList<Pais> paises;
    
    public Planeta(){
-       paises=new ArrayList<Medible>();
+       paises=new ArrayList<Pais>();
    }
    
    public void agregaPais(Pais p){
