@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.params=r\ x\ y
-comment0.target=Circulo(float,\ int,\ int)
+comment0.target=Circulo(int,\ int,\ int)
 comment1.params=g
 comment1.target=void\ dibuja(java.awt.Graphics)
 numComments=2
